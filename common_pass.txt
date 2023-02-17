@@ -1,0 +1,8 @@
+welcome1
+welcome2
+welcome123
+password1
+password12
+password123
+Password!
+12345abc
